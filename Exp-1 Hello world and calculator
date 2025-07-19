@@ -21,7 +21,7 @@ int main(){
 using namespace std;
 
 int main(){
-    int num1, num2, sum, div, sub, multiply;
+    float num1, num2, sum, div, sub, multiply;
     cout <<"Enter first number: ";
     cin >> num1;
     cout <<"Enter second number: ";
