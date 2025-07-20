@@ -41,3 +41,18 @@ int main(){
 
 return 0;
 }
+
+//Output
+//Program 1
+
+//Hello World
+
+//Program 2
+
+//Enter first number: 80
+//Enter second number: 40
+//sum = 120
+//sub = 40
+//multiply = 3200
+//div = 2
+
