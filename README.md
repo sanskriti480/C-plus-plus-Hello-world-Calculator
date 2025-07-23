@@ -64,23 +64,23 @@ This program takes two user inputs and performs:
 - Multiplication
 - Division
 
-**Variable Declaration:
+-**Variable Declaration:
 
 Declares variables (e.g., num1, num2) of type float to store numbers.
 
-**User Input:
+-**User Input:
 
 Uses cin to take input from the user for both numbers.
 
-**Performing Operations:
+-**Performing Operations:
 
 Uses arithmetic operators (+, -, *, /) to compute results.
 
-**Displaying Output:
+-**Displaying Output:
 
 Uses cout to print the result of each operation with descriptive text.
 
-**Error Handling (Optional):
+-**Error Handling (Optional):
 
 For division, an additional check can be implemented to ensure the second number is not zero.
 
