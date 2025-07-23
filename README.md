@@ -6,7 +6,7 @@ To understand the basic structure of a C++ program and implement a calculator us
 ---
 
 ## Tools used
-Visual Studio Code (VS Code) / Online C++ compiler.
+Visual Studio Code (VS Code) / Programiz Online C++ compiler.
 
 ---
 
