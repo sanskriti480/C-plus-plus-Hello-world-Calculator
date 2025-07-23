@@ -1,16 +1,16 @@
 # Experiment 1: Hello World & Basic Calculator in C++
 
-## 🧪 Aim
+##  Aim
 To understand the basic structure of a C++ program and implement a calculator using arithmetic operations.
 
 ---
 
-## 🛠️ Apparatus
+## Tools used
 Visual Studio Code (VS Code)
 
 ---
 
-## 📚 Theory
+## Theory
 
 ### Program 1: Hello World
 
@@ -74,11 +74,3 @@ This experiment helped in:
 - Gaining hands-on practice with input/output operations and operators.
 
 ---
-
-
-
-int main() {
-    cout << "Hello World";
-    return 0;
-}
-
