@@ -64,6 +64,8 @@ This program takes two user inputs and performs:
 - Multiplication
 - Division
 
+Steps performed
+
 - Variable Declaration:
 Declares variables (e.g., num1, num2) of type float to store numbers.
 
