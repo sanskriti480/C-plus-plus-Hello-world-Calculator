@@ -68,7 +68,7 @@ This program takes two user inputs and performs:
 
 Declares variables (e.g., num1, num2) of type float to store numbers.
 
--**User Input:
+##User Input:
 
 Uses cin to take input from the user for both numbers.
 
