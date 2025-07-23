@@ -10,17 +10,6 @@ Visual Studio Code (VS Code)
 
 ---
 
-### Why C++ is More Efficient Than C
-
-- **Object-Oriented Programming (OOP):** Enables structured, modular, and reusable code.
-- **Standard Template Library (STL):** Provides optimized data structures and algorithms.
-- **Function Overloading & Default Arguments:** Offers flexibility and code efficiency.
-- **Better Type Checking:** Ensures safer code and reduces runtime errors.
-- **Dynamic Memory Management:** C++ provides `new` and `delete` for finer memory control.
-- **Namespaces:** Prevent name collisions in large projects.
-
----
-
 ## Theory
 
 ### Program 1: Hello World
@@ -54,6 +43,16 @@ It demonstrates:
 - Use of arithmetic operators
 - Variable declaration and usage
 - Simple program flow control
+
+---
+### Why C++ is More Efficient Than C
+
+- **Object-Oriented Programming (OOP):** Enables structured, modular, and reusable code.
+- **Standard Template Library (STL):** Provides optimized data structures and algorithms.
+- **Function Overloading & Default Arguments:** Offers flexibility and code efficiency.
+- **Better Type Checking:** Ensures safer code and reduces runtime errors.
+- **Dynamic Memory Management:** C++ provides `new` and `delete` for finer memory control.
+- **Namespaces:** Prevent name collisions in large projects.
 
 ---
 ## Sample Output
