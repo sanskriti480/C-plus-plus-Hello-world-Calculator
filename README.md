@@ -1,19 +1,84 @@
-Experiment 1
+# Experiment 1: Hello World & Basic Calculator in C++
 
-Aim - Hello World & Calculator Program.
+## 🧪 Aim
+To understand the basic structure of a C++ program and implement a calculator using arithmetic operations.
 
-Apparatus: VS Code or Programiz online C++ compiler.
+---
 
-Theory - 
-Program 1:
-This program demonstrates the basic structure of a C++ program and the use of the cout statement to display output on the screen. This C++ program displays the message "Hello World" on the screen. It begins with
-#include<iostream>, which is used to include the input-output stream library necessary for displaying output. The line using namespace std; allows the programmer to use standard functions like cout without the 
-prefixing them with std::. The main() function is the entry point of the program, and the code inside it is executed when the program runs. The statement cout << "Hello World"; is used to print the message to 
-screen. Finally, return 0; indicates that the program has ended successfully. This program is often used as the first step in learning C++ as it introduces basic structure and syntax.
+## 🛠️ Apparatus
+Visual Studio Code (VS Code)
 
-Program 2:
-This C++ program demonstrates the basic concept of arithmetic operations using user input. It allows the user to enter two numbers and then performs addition, subtraction, multiplication, and division. The program 
-uses variables to store the input and the results of each operation. Functions like cin and cout are used for taking input and displaying output. This helps beginners understand how to work with input/output, 
-variables, and arithmetic operators in C++. It also introduces the structure of a simple C++ program.
+---
 
-Conclusion: Hence, we were able to print hello world and build a basic calculator in C++.
+## 📚 Theory
+
+### Program 1: Hello World
+
+This program demonstrates the foundational structure of a C++ application.
+
+- Includes the `<iostream>` header for input and output operations.
+- `using namespace std;` simplifies access to standard library functions like `cout` and `cin`.
+- The `main()` function is the starting point of execution.
+- The line `cout << "Hello World";` prints a greeting message.
+- `return 0;` signals the program's successful execution.
+
+This program introduces:
+- C++ syntax
+- Output statement (`cout`)
+- Program entry and exit structure
+
+---
+
+### Program 2: Basic Calculator
+
+This program takes two user inputs and performs:
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+It demonstrates:
+- Use of `cin` and `cout` for input/output
+- Use of arithmetic operators
+- Variable declaration and usage
+- Simple program flow control
+
+---
+
+### Why C++ is More Efficient Than C
+
+- **Object-Oriented Programming (OOP):** Enables structured, modular, and reusable code.
+- **Standard Template Library (STL):** Provides optimized data structures and algorithms.
+- **Function Overloading & Default Arguments:** Offers flexibility and code efficiency.
+- **Better Type Checking:** Ensures safer code and reduces runtime errors.
+- **Dynamic Memory Management:** C++ provides `new` and `delete` for finer memory control.
+- **Namespaces:** Prevent name collisions in large projects.
+
+---
+## Sample Output
+```
+Hello World
+Enter first number: 80
+Enter second number: 40
+sum = 120
+sub = 40
+multiply = 3200
+div = 2
+```
+## 🧾 Conclusion
+
+This experiment helped in:
+- Understanding the basic structure of a C++ program.
+- Performing arithmetic operations using variables and user input.
+- Gaining hands-on practice with input/output operations and operators.
+
+---
+
+
+
+int main() {
+    cout << "Hello World";
+    return 0;
+}
+
