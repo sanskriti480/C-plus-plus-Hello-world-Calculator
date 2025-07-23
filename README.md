@@ -6,11 +6,20 @@ To understand the basic structure of a C++ program and implement a calculator us
 ---
 
 ## Tools used
-Visual Studio Code (VS Code)
+Visual Studio Code (VS Code) / Online C++ compiler.
 
 ---
 
 ## Theory
+
+### Why C++ is More Efficient Than C
+
+- **Object-Oriented Programming (OOP):** Enables structured, modular, and reusable code.
+- **Standard Template Library (STL):** Provides optimized data structures and algorithms.
+- **Function Overloading & Default Arguments:** Offers flexibility and code efficiency.
+- **Better Type Checking:** Ensures safer code and reduces runtime errors.
+- **Dynamic Memory Management:** C++ provides `new` and `delete` for finer memory control.
+- **Namespaces:** Prevent name collisions in large projects.
 
 ### Program 1: Hello World
 
@@ -45,17 +54,9 @@ It demonstrates:
 - Simple program flow control
 
 ---
-### Why C++ is More Efficient Than C
 
-- **Object-Oriented Programming (OOP):** Enables structured, modular, and reusable code.
-- **Standard Template Library (STL):** Provides optimized data structures and algorithms.
-- **Function Overloading & Default Arguments:** Offers flexibility and code efficiency.
-- **Better Type Checking:** Ensures safer code and reduces runtime errors.
-- **Dynamic Memory Management:** C++ provides `new` and `delete` for finer memory control.
-- **Namespaces:** Prevent name collisions in large projects.
-
----
 ## Sample Output
+
 ```
 Hello World
 Enter first number: 80
