@@ -66,7 +66,7 @@ sub = 40
 multiply = 3200
 div = 2
 ```
-## 🧾 Conclusion
+## Conclusion
 
 This experiment helped in:
 - Understanding the basic structure of a C++ program.
