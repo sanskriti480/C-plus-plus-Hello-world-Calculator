@@ -25,30 +25,31 @@ Visual Studio Code (VS Code) / Programiz Online C++ compiler.
 
 This is the simplest and most traditional program used to introduce a new programming language. It helps beginners understand how a basic C++ program is structured and how to display output.
 
-Purpose:
+- Purpose:
 To display the message "Hello World" on the screen.
 
 Key Concepts Introduced:
-Header File Inclusion:
 
+- Header File Inclusion:
 #include <iostream> includes the input/output stream library, necessary for using cout and cin.
-Namespace Declaration:
+
+- Namespace Declaration:
 using namespace std; enables direct use of standard library functions without prefixing them with std::.
 
-Main Function:
+- Main Function:
 int main() marks the entry point of the program. It is where the execution begins.
 
-Output Statement:
+- Output Statement:
 cout << "Hello World"; prints a string message to the console.
 
-Exit Statement:
+- Exit Statement:
 return 0; indicates successful termination of the program.
 
 Concepts Learned:
-Basic syntax of a C++ program
-Importance of main() function
-Use of cout for output
-Use of header files and namespaces
+-Basic syntax of a C++ program
+-Importance of main() function
+-Use of cout for output
+-Use of header files and namespaces
 
 This program serves as the foundation for understanding how C++ handles program structure and output, paving the way for more complex applications.
 
